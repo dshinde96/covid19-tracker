@@ -1,0 +1,16 @@
+.__header{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin: 20px;
+}
+.__header li{
+    padding-right: 15px;
+    cursor: pointer;
+}
+.__header a{
+    text-decoration: none;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
